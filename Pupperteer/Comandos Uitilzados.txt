@@ -1,0 +1,10 @@
+Antes de criar o fihciero javascript tenho de executar o primeiro e o segundo comando
+
+Inicializar o Node
+npm init -y
+
+Instalação do puppet
+npm i puppet
+
+Colocar o programa a correr
+node index.js(nomedoficheirojavascript)
